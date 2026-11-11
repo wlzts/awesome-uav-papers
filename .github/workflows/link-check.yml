@@ -32,7 +32,6 @@ jobs:
             --no-progress
             --exclude-all-private
             --exclude-link-local
-            --exclude-mail
             --max-concurrency 5
             --timeout 20
             --accept 200,206,429
