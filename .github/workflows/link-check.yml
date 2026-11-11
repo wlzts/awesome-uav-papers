@@ -37,7 +37,9 @@ jobs:
             --exclude-all-private
             --exclude-link-local
             --max-concurrency 5
-            --timeout 20
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 2
             --accept 200,202,206,403,429
             --scheme https
             README.md
