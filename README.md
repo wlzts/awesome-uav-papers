@@ -909,7 +909,7 @@ Don't know where to start? Pick your goal below.
 | **EUROC MAV** | VIO / SLAM | 无人机视觉-惯性里程计标准数据集 | [projects.asl.ethz.ch](https://projects.asl.ethz.ch/datasets/euroc-mav/) |
 | **Drone-vs-Bird** | Anti-UAV Detection | 无人机 vs 鸟类声学/视觉检测基准 | [doi.org/10.1109/ICASSP49357.2023.10096123](https://doi.org/10.1109/ICASSP49357.2023.10096123) |
 | **U2UData** | Cooperative Perception | 大规模无人机间协同感知数据集 | [fengtt42.github.io/U2UData-2](https://fengtt42.github.io/U2UData-2/) |
-| **UAV123** | Tracking | 无人机视角目标跟踪基准 | [cvrl.stonybrook.edu/uav123](https://cvrl.stonybrook.edu/uav123/) |
+| **UAV123** | Tracking | 无人机视角目标跟踪基准 | [ivul.kaust.edu.sa/uav123](https://ivul.kaust.edu.sa/benchmark-and-simulator-uav-tracking-dataset) |
 | **iSAID / LoveDA** | Segmentation | 航拍图像实例/语义分割数据集 | [github.com/CAPTAIN-WHU/iSAID_Devkit](https://github.com/CAPTAIN-WHU/iSAID_Devkit) |
 | **KITTI-360 / Newer College** | LiDAR / Visual SLAM | 通用 SLAM 基准（可迁移到无人机场景） | — |
 
