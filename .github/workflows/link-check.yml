@@ -25,7 +25,7 @@ jobs:
 
       - name: Link Check with lychee
         id: lychee
-        uses: lychee-action/lychee-action@v1.9.1
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           args: >-
             --verbose
