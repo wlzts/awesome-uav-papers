@@ -78,10 +78,10 @@ Don't know where to start? Pick your goal below.
   > 中文：多机系统综述，给出命名法与架构分类体系，做集群方向的入门打底。
   > 📜 DOI: N/A · 💻 Code: N/A · 📊 Data: N/A
 
-- **[A Review of UAV Autonomous Navigation in GPS-Denied Environments](https://www.sciencedirect.com/science/article/abs/pii/S0921889023001347)** `2023` `Survey` `Navigation`
+- **[A Review of UAV Autonomous Navigation in GPS-Denied Environments](https://doi.org/10.1016/j.robot.2023.104533)** `2023` `Survey` `Navigation`
   *Zhao et al., Robotics and Autonomous Systems.*
   > 中文：GPS 拒止环境下 UAV 自主导航综述，覆盖视觉、LiDAR、惯性融合与多传感器方案对比。
-  > 📜 DOI: `10.1016/j.robot.2023.104350` · 💻 Code: N/A · 📊 Data: N/A
+  > 📜 DOI: `10.1016/j.robot.2023.104533` · 💻 Code: N/A · 📊 Data: N/A
 
 ### Planning & Control Surveys
 
@@ -468,7 +468,7 @@ Don't know where to start? Pick your goal below.
 - **[Is Intermediate Fusion All You Need for UAV-based Collaborative Perception? (LIF)](https://arxiv.org/abs/2504.21774)** `2025` `Method` `cooperative-perception` `communication-efficient` `BEV` `uncertainty` `3D-detection`
   *Jiuwu Hao, Liguo Sun, Yuting Wan, Yueyang Wu, Ti Xiang, Haolin Song, Pin Lv, arXiv preprint (IEEE/ACM submission).*
   > 中文：晚期-中间层融合LIF,仅交换紧凑检测结果并经VPE+BoBEV融合,不确定性驱动通信,极低带宽。
-  > 📜 DOI: N/A · 💻 Code: https://github.com/weslchw/LiF · 📊 Data: N/A
+  > 📜 DOI: N/A · 💻 Code: N/A · 📊 Data: N/A
 
 - **[Decentralized Multi-UAV Trajectory Task Allocation in Search and Rescue Applications (CBBA extension)](https://findresearcher.sdu.dk/ws/files/268650626/Decentralized_Multi_Robot_Trajectory_Task_Allocation_in_Search_and_Rescue_Applications_11_.pdf)** `2024` `Method` `task-allocation` `CBBA` `auction` `search-and-rescue` `coverage`
   *Kasper A. R. Grøntved, Ulrik P. S. Lundquist, Anders Lyhne Christensen, ICUAS / SDU working paper.*
@@ -488,7 +488,7 @@ Don't know where to start? Pick your goal below.
 - **[High-Speed Motion Planning for Aerial Swarms in Unknown and Cluttered Environments (HDSM)](https://arxiv.org/abs/2402.19033)** `2024` `Method` `collision-avoidance` `decentralized` `motion-planning` `cluttered` `real-hardware`
   *Charbel Toumieh, Dario Floreano, IEEE Transactions on Robotics, vol.40.*
   > 中文：EPFL首个高 decentralized 同步高速运动规划框架,显式处理未知环境,多机穿越杂乱场景。
-  > 📜 DOI: `10.1109/TRO.2024.3429193` · 💻 Code: https://github.com/lis-epfl/multi_agent_mpc · 📊 Data: N/A
+  > 📜 DOI: `10.1109/TRO.2024.3429193` · 💻 Code: N/A · 📊 Data: N/A
 
 - **[U2UData: A Large-scale Cooperative Perception Dataset for Swarm UAVs Autonomous Flight](https://arxiv.org/abs/2408.00606)** `2024` `Method` `cooperative-perception` `dataset` `benchmark` `LiDAR` `3D-detection` `BEV`
   *Tongtong Feng, Xin Wang, Feilin Han, Leping Zhang, Wenwu Zhu, ACM MM 2024.*
@@ -592,10 +592,10 @@ Don't know where to start? Pick your goal below.
   > 中文：首个UAV指代表达图像分割框架，视觉-语言交叉注意力+旋转感知多尺度融合解码器，自动标注管线构建新基准。
   > 📜 DOI: N/A · 💻 Code: https://github.com/lironui/AeroReformer · 📊 Data: N/A
 
-- **[Multi-Scale Attention and Boundary-Aware Network for Military Camouflaged Object Detection using Unmanned Aerial Vehicles](https://link.springer.com/article/10.1007/s11760-025-03602-3)** `2025` `Method` `camouflaged-object-detection` `military` `boundary-aware` `ViT`
+- **[Multi-Scale Attention and Boundary-Aware Network for Military Camouflaged Object Detection using Unmanned Aerial Vehicles](https://link.springer.com/article/10.1007/s11760-024-03766-1)** `2025` `Method` `camouflaged-object-detection` `military` `boundary-aware` `ViT`
   *Keshun Liu, Aihua Li, Sen Yang, Changlong Wang, Yuhua Zhang, Signal, Image and Video Processing (Springer).*
   > 中文：金字塔ViT主干+边界提取/引导/上下文融合三模块，新建MCOD-UAV数据集，伪装目标检测mAP达48.92%。
-  > 📜 DOI: `10.1007/s11760-025-03602-3` · 💻 Code: N/A · 📊 Data: N/A
+  > 📜 DOI: `10.1007/s11760-024-03766-1` · 💻 Code: N/A · 📊 Data: N/A
 
 - **[IF-YOLO: UAV Object Detection via Information-Preserving Feature Aggregation](https://www.mdpi.com/2072-4292/16/14/2590/pdf)** `2024` `Method` `YOLO`
   *Zhang et al., Remote Sensing.*
@@ -751,10 +751,10 @@ Don't know where to start? Pick your goal below.
   > 中文：首次对比被动/主动/混合RIS-UAV，混合方案较被动RIS能效提升14倍，主动达26倍。
   > 📜 DOI: `10.3390/drones7020098` · 💻 Code: N/A · 📊 Data: N/A
 
-- **[UAV Trajectory and Beamforming Optimization for Integrated Periodic Sensing and Communication](https://wnt.sjtu.edu.cn/papers/ieee-wcl-uavsens.pdf)** `2023` `Method` `ISAC` `trajectory` `beamforming` `periodic-sensing`
+- **[UAV Trajectory and Beamforming Optimization for Integrated Periodic Sensing and Communication](https://arxiv.org/abs/2203.10223)** `2022` `Method` `ISAC` `trajectory` `beamforming` `periodic-sensing`
   *Kaitao Meng, Qingqing Wu, Shaodan Ma, Wen Chen, Tony Q. S. Quek, IEEE Wireless Communications Letters.*
   > 中文：提出周期式ISAC机制，闭式最优预编码+UAV轨迹设计，揭示不同帧间解的结构对称性。
-  > 📜 DOI: `10.1109/LWC.2023.3256167` · 💻 Code: N/A · 📊 Data: N/A
+  > 📜 DOI: `10.1109/LWC.2022.3161338` · 💻 Code: N/A · 📊 Data: N/A
 
 - **[UAV Trajectory Design and Power Optimization for Terahertz Band-Integrated Sensing and Communications](https://www.mdpi.com/1424-8220/23/6/3005)** `2023` `Method` `terahertz` `ISAC` `PPO` `trajectory`
   *Ying Gao, Hongmei Xue, Long Zhang, Enchang Sun, Sensors (MDPI).*
@@ -906,11 +906,11 @@ Don't know where to start? Pick your goal below.
 | **VisDrone2019** | Object Detection / Tracking | 无人机视角目标检测 / 跟踪，密集小目标场景 | [github.com/VisDrone/VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset) |
 | **UAVDT** | Detection / Tracking | 城市无人机视角车辆检测跟踪 | [paperswithcode](https://paperswithcode.com/dataset/uavdt) |
 | **DroneVehicle** | Detection | 红外+可见光车辆检测 | [github.com/VisDrone](https://github.com/VisDrone/VisDrone-Dataset) |
-| **EUROC MAV** | VIO / SLAM | 无人机视觉-惯性里程计标准数据集 | [projects.asl.ethz.ch](https://projects.asl.ethz.ch/datasets/dataset/EuRoCMAV) |
+| **EUROC MAV** | VIO / SLAM | 无人机视觉-惯性里程计标准数据集 | [projects.asl.ethz.ch](https://projects.asl.ethz.ch/datasets/euroc-mav/) |
 | **Drone-vs-Bird** | Anti-UAV Detection | 无人机 vs 鸟类声学/视觉检测基准 | [doi.org/10.1109/ICASSP49357.2023.10096123](https://doi.org/10.1109/ICASSP49357.2023.10096123) |
 | **U2UData** | Cooperative Perception | 大规模无人机间协同感知数据集 | [fengtt42.github.io/U2UData-2](https://fengtt42.github.io/U2UData-2/) |
 | **UAV123** | Tracking | 无人机视角目标跟踪基准 | [cvrl.stonybrook.edu/uav123](https://cvrl.stonybrook.edu/uav123/) |
-| **iSAID / LoveDA** | Segmentation | 航拍图像实例/语义分割数据集 | [github.com/sizhewe/iSAID](https://github.com/sizhewe/iSAID) |
+| **iSAID / LoveDA** | Segmentation | 航拍图像实例/语义分割数据集 | [github.com/CAPTAIN-WHU/iSAID_Devkit](https://github.com/CAPTAIN-WHU/iSAID_Devkit) |
 | **KITTI-360 / Newer College** | LiDAR / Visual SLAM | 通用 SLAM 基准（可迁移到无人机场景） | — |
 
 > 欢迎补充更多 UAV 专用数据集。
